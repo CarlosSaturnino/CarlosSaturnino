@@ -22,6 +22,6 @@
   <a href = "mailto:carlos.saturnino@atlantaconsulting.com.br"><img src="https://img.shields.io/badge/-email     -%23333?style=for-the-badge&logo=e-mail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/carlos_eduardo_saturnino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
- ![Snake animation](https://github.com/rafaballerini/carlossaturnino/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/carlossaturnino/blob/output/github-contribution-grid-snake.svg)
  
 </div>
